@@ -1,0 +1,31 @@
+file_name	h1	h2	h3	h4	char_count
+demo_text.docx	1.0 heading 1	1.0 heading 1			947
+demo_text.docx	1.0 heading 1	1.1 subheading 1.1			934
+demo_text.docx	1.0 heading 1	1.2 subheading 1.2			492
+demo_text.docx	1.0 heading 1	1.2 subheading 1.2	1.2.1 subheading 1.2.1		647
+demo_text.docx	1.0 heading 1	1.2 subheading 1.2	1.2.2 subheading 1.2.2		539
+demo_text.docx	1.0 heading 1	1.3 subheading 1.3			533
+demo_text.docx	1.0 heading 1	1.4 subheading 1.4			87
+demo_text.docx	2.0 heading 2	2.0 heading 2			702
+demo_text.docx	2.0 heading 2	2.1 subheading 2.1			449
+demo_text.docx	2.0 heading 2	2.2 subheading 2.2			323
+demo_text.docx	2.0 heading 2	2.3 subheading 2.3			975
+demo_text.docx	2.0 heading 2	2.3 subheading 2.3	2.3.1 subheading 2.3.1		628
+demo_text.docx	2.0 heading 2	2.3 subheading 2.3	2.3.2 subheading 2.3.2		959
+demo_text.docx	2.0 heading 2	2.4 subheading 2.4			888
+demo_text.docx	3.0 heading 3	3.0 heading 3			693
+demo_text.docx	3.0 heading 3	3.1 subheading 3.1			192
+demo_text.docx	3.0 heading 3	3.2 subheading 3.2			445
+demo_text.docx	3.0 heading 3	3.3 subheading 3.3			229
+demo_text.docx	3.0 heading 3	3.4 subheading 3.4			883
+demo_text.docx	3.0 heading 3	3.4 subheading 3.4	3.4.1 subheading 3.4.1		576
+demo_text.docx	3.0 heading 3	3.4 subheading 3.4	3.4.2 subheading 3.4.2		50
+demo_text.docx	4.0 heading 4	4.0 heading 4			721
+demo_text.docx	4.0 heading 4	4.1 subheading 4.1			75
+demo_text.docx	4.0 heading 4	4.1 subheading 4.1	4.1.1 subheading 4.1.1		558
+demo_text.docx	4.0 heading 4	4.1 subheading 4.1	4.1.1 subheading 4.1.1	4.1.1.1 subheading 4.1.1.1	890
+demo_text.docx	4.0 heading 4	4.1 subheading 4.1	4.1.1 subheading 4.1.1	4.1.1.2 subheading 4.1.1.2	938
+demo_text.docx	4.0 heading 4	4.1 subheading 4.1	4.1.2 subheading 4.1.2		871
+demo_text.docx	4.0 heading 4	4.2 subheading 4.2			979
+demo_text.docx	4.0 heading 4	4.3 subheading 4.3			232
+demo_text.docx	4.0 heading 4	4.4 subheading 4.4			630
